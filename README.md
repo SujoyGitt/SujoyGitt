@@ -59,18 +59,8 @@
 - 🌐 **Portfolio:** https://sujoygitt.github.io/portfolio/
 
 ---
-## 📂 Portfolio Screenshots  
-
-![Project 1](assets/Screenshot_4.png)  
-![Project 1](assets/Screenshot_5.png)  
-![Project 2](assets/Screenshot_10.png)  
-![Project 2](assets/Screenshot_15.png)  
-![Project 3](assets/Screenshot_17.png)  
-![Project 3](assets/Screenshot_20.png)  
-![Project 4](assets/Screenshot_22.png)  
-![Project 4](assets/Screenshot_25.png)  
-![Project 4](assets/Screenshot_26.png)  
-![Project 7](assets/Screenshot_26.png)  
+📂 Portfolio Screenshots
+<div align="center"> <table> <tr> <td><img src="assets/Screenshot_4.png" width="200"/></td> <td><img src="assets/Screenshot_5.png" width="200"/></td> <td><img src="assets/Screenshot_10.png" width="200"/></td> </tr> <tr> <td><img src="assets/Screenshot_15.png" width="200"/></td> <td><img src="assets/Screenshot_17.png" width="200"/></td> <td><img src="assets/Screenshot_20.png" width="200"/></td> </tr> <tr> <td><img src="assets/Screenshot_22.png" width="200"/></td> <td><img src="assets/Screenshot_25.png" width="200"/></td> <td><img src="assets/Screenshot_26.png" width="200"/></td> </tr> </table> </div> 
 
 ### 📊 GitHub at a glance
 <p align="left">
