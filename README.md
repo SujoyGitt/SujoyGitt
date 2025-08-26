@@ -59,6 +59,18 @@
 - 🌐 **Portfolio:** https://sujoygitt.github.io/portfolio/
 
 ---
+## 📂 Portfolio Screenshots  
+
+![Project 1](assets/Screenshot_4.png)  
+![Project 1](assets/Screenshot_5.png)  
+![Project 2](assets/Screenshot_10.png)  
+![Project 2](assets/Screenshot_15.png)  
+![Project 3](assets/Screenshot_17.png)  
+![Project 3](assets/Screenshot_20.png)  
+![Project 4](assets/Screenshot_22.png)  
+![Project 4](assets/Screenshot_25.png)  
+![Project 4](assets/Screenshot_26.png)  
+![Project 7](assets/Screenshot_26.png)  
 
 ### 📊 GitHub at a glance
 <p align="left">
