@@ -41,7 +41,7 @@
 
 | Project | What it is | Tech | Live | Repo |
 |---|---|---|---|---|
-| **React E-Shop** | Scalable e-commerce with cart & checkout (Context API, local storage) | React, Context API, Tailwind | [Demo](https://fashionstorein.netlify.app/) | [Code](https://github.com/SujoyGitt/ReactEcommerce) |
+| **React E-Shop** | Scalable e-commerce with cart & checkout (Context API, local storage) | React, Context API, Tailwind | [Demo](https://fashionstorein.netlify.app/) | [Code](https://sujoygitt.github.io/fashion-store-v2) |
 | **YouTube Clone** | Search, play, pagination via YouTube API | JS, REST API | [Demo](https://sujoygitt.github.io/YoutubeClone/) | [Code](https://github.com/SujoyGitt/YoutubeClone) |
 | **Facebook Clone** | Responsive social feed using JSONPlaceholder | JS, REST API | [Demo](https://sujoygitt.github.io/FacebookClone/) | [Code](https://github.com/SujoyGitt/FacebookClone) |
 | **FoodDesk** | Restaurant menu with filtering & API search | JS, CSS | [Demo](https://sujoygitt.github.io/Food-desk/) | [Code](https://github.com/SujoyGitt/Food-desk) |
