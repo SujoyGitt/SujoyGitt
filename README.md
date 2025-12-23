@@ -63,9 +63,9 @@
 <div align="center"> 
   <table>
      <tr>
-      <td><img src="assets/Screenshot_33.png" width="200"/></td>
-      <td><img src="assets/Screenshot_34.png" width="200"/></td>
-      <td><img src="assets/Screenshot_35.png" width="200"/></td> 
+      <td><img src="assets/Screenshot_33.jpg" width="200"/></td>
+      <td><img src="assets/Screenshot_34.jpg" width="200"/></td>
+      <td><img src="assets/Screenshot_35.jpg" width="200"/></td> 
     </tr>
     <tr> 
       <td><img src="assets/Screenshot_4.png" width="200"/></td>
