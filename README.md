@@ -75,13 +75,9 @@
     <tr>
       <td><img src="assets/Screenshot_15.png" width="200"/></td>
       <td><img src="assets/Screenshot_17.png" width="200"/></td> 
-      <td><img src="assets/Screenshot_20.png" width="200"/></td> 
-    </tr>
-    <tr>
-      <td><img src="assets/Screenshot_22.png" width="200"/></td>
       <td><img src="assets/Screenshot_25.png" width="200"/></td>
-      <td><img src="assets/Screenshot_26.png" width="200"/></td> 
     </tr>
+
    
   </table> 
 </div> 
