@@ -63,6 +63,16 @@
 <div align="center"> 
   <table>
      <tr>
+      <td><img src="assets/task-management-login.png" width="200"/></td>
+      <td><img src="assets/task-management-task.png" width="200"/></td>
+      <td><img src="assets/task-management-analytical.png" width="200"/></td> 
+    </tr>
+    <tr>
+      <td><img src="assets/movie-home.png" width="200"/></td>
+      <td><img src="assets/movie-details.png" width="200"/></td>
+      <td><img src="assets/facebook-home.png" width="200"/></td> 
+    </tr>
+     <tr>
       <td><img src="assets/Screenshot_33.jpg" width="200"/></td>
       <td><img src="assets/Screenshot_34.jpg" width="200"/></td>
       <td><img src="assets/Screenshot_35.jpg" width="200"/></td> 
