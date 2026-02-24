@@ -41,11 +41,15 @@
 
 | Project | What it is | Tech | Live | Repo |
 |---|---|---|---|---|
-| **React E-Shop** | Scalable e-commerce with cart & checkout (Context API, local storage) | React, Context API, Tailwind | [Demo](https://sujoygitt.github.io/fashion-store-v2) | [Code](https://sujoygitt.github.io/fashion-store-v2) |
-| **YouTube Clone** | Search, play, pagination via YouTube API | JS, REST API | [Demo](https://sujoygitt.github.io/YoutubeClone/) | [Code](https://github.com/SujoyGitt/YoutubeClone) |
-| **Facebook Clone** | Responsive social feed using JSONPlaceholder | JS, REST API | [Demo](https://sujoygitt.github.io/FacebookClone/) | [Code](https://github.com/SujoyGitt/FacebookClone) |
-| **FoodDesk** | Restaurant menu with filtering & API search | JS, CSS | [Demo](https://sujoygitt.github.io/Food-desk/) | [Code](https://github.com/SujoyGitt/Food-desk) |
-| **CYBERFICTION** | Futuristic landing page with GSAP animations | HTML, CSS, GSAP | [Demo](https://sujoygitt.github.io/CYBERFICTION/) | [Code](https://github.com/SujoyGitt/CYBERFICTION) |
+| **🧠 Task Management Dashboard** | Role-based task system with authentication, Kanban workflow, drag & drop, analytics, light/dark mode | React, Context API, Local Storage | [Demo](https://sujoygitt.github.io/task-management-system/) | [Code](https://github.com/SujoyGitt/task-management-system) |
+| **🛒 React E-Shop** | Scalable e-commerce app with API integration, reusable components & responsive UI | React, Context API, Tailwind | [Demo](https://sujoygitt.github.io/fashion-store-v2) | [Code](https://github.com/SujoyGitt/fashion-store-v2) |
+| **📋 Jira Board** | Drag-and-drop task board with CRUD operations & optimized re-renders | React, Local State | [Demo](https://sujoygitt.github.io/jira-board-clone/) | [Code](https://github.com/SujoyGitt/jira-board-clone) |
+| **🌦️ Advanced Weather App** | Real-time weather data with API integration, location search & modern UI | JavaScript, REST API, CSS | [Demo](https://sujoygitt.github.io/weather-app/) | [Code](https://github.com/SujoyGitt/weather-app) |
+| **🎬 Movie Explorer** | Movie discovery app with search, dynamic data fetching & responsive UI | JavaScript, REST API | [Demo](https://sujoygitt.github.io/movie-explorer/) | [Code](https://github.com/SujoyGitt/movie-explorer) |
+| **▶️ YouTube Clone** | Search, play & pagination using YouTube Data API | JavaScript, REST API | [Demo](https://sujoygitt.github.io/YoutubeClone/) | [Code](https://github.com/SujoyGitt/YoutubeClone) |
+| **👥 Facebook Clone** | Responsive social feed using JSONPlaceholder API | JavaScript, REST API | [Demo](https://sujoygitt.github.io/FacebookClone/) | [Code](https://github.com/SujoyGitt/FacebookClone) |
+| **🍽️ FoodDesk** | Restaurant menu with filtering & API search | JavaScript, CSS | [Demo](https://sujoygitt.github.io/Food-desk/) | [Code](https://github.com/SujoyGitt/Food-desk) |
+| **🚀 CYBERFICTION** | Futuristic animated landing page using GSAP | HTML, CSS, GSAP | [Demo](https://sujoygitt.github.io/CYBERFICTION/) | [Code](https://github.com/SujoyGitt/CYBERFICTION) |
 
 > Coming soon:
 > - **Admin Dashboard (React + Tailwind + Chart.js)** with auth & dark mode  
