@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Sujoy Ghosal 👋</h1>
 <p align="center">
-  <b>Front-End Developer</b> • React.js • JavaScript • Tailwind CSS<br/>
+  <b>Front-End Developer</b> • React.js • JavaScript • Typescript • Tailwind CSS<br/>
   Building fast, accessible, and delightful web apps.
 </p>
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About me
-- 2+ years building scalable, responsive UIs with **React.js**, **JavaScript**, **Tailwind/Bootstrap**
+- 2+ years building scalable, responsive UIs with **React.js**, **JavaScript**, **Typescript** , **Tailwind/Bootstrap**
 - Comfortable turning **Figma** into production-ready code, integrating **REST APIs**, and polishing UX
 - Love performance tuning, component libraries, and dashboards
 - Currently: **Frontend Developer @ Logistifie (Remote, London)**
