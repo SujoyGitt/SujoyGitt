@@ -25,6 +25,7 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript">
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-323330?logo=typescript">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-0f172a?logo=tailwindcss">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white">
