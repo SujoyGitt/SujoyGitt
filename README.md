@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About me
-- 2+ years building scalable, responsive UIs with **React.js**, **JavaScript**, **Typescript** , **Tailwind/Bootstrap**
+- 3+ years building scalable, responsive UIs with **React.js**, **JavaScript**, **Typescript** , **Tailwind/Bootstrap**
 - Comfortable turning **Figma** into production-ready code, integrating **REST APIs**, and polishing UX
 - Love performance tuning, component libraries, and dashboards
 - Currently: **Frontend Developer @ Logistifie (Remote, London)**
