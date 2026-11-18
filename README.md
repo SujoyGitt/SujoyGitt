@@ -22,18 +22,27 @@
 ---
 
 ### 🧰 Tech I use
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript">
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-323330?logo=typescript">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-0f172a?logo=tailwindcss">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white">
+  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white">
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?logo=tailwindcss&logoColor=38B2AC">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?logo=postman&logoColor=white">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white">
 </p>
+
 
 ---
 
