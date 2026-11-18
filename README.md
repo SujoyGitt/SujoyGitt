@@ -84,7 +84,7 @@
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)** — [Institution Name] | [Year–Year]
+- **Master of Computer Applications (MCA)** — [Manipal (Jaipur)] | [2026–2028]
 - **Bachelor's Degree** — Burdwan Raj College | 2019–2022
 
 ### 📬 Contact
