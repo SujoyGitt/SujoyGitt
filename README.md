@@ -69,9 +69,9 @@
 
 ## 💼 Experience
 
-- **Frontend / HTML Developer — Logistifie**
+- **Frontend Developer — Logistifie**
   - Jan 2024 – Present
-  - Building responsive web interfaces using HTML, CSS and JavaScript.
+  - Building responsive web interfaces using HTML, CSS , JavaScript , React & PHP.
   - Working on website UI implementation and maintenance.
 
 - **Part-time Developer — Melolem**
