@@ -61,11 +61,31 @@
 | **🍽️ FoodDesk** | Restaurant menu with filtering & API search | JavaScript, CSS | [Demo](https://sujoygitt.github.io/Food-desk/) | [Code](https://github.com/SujoyGitt/Food-desk) |
 | **🚀 CYBERFICTION** | Futuristic animated landing page using GSAP | HTML, CSS, GSAP | [Demo](https://sujoygitt.github.io/CYBERFICTION/) | [Code](https://github.com/SujoyGitt/CYBERFICTION) |
 
-> Coming soon:
-> - **Admin Dashboard (React + Tailwind + Chart.js)** with auth & dark mode  
+### 🚀 Coming Soon
+- **DisciplineGuard (React/Next Js + TypeScript + Redux Toolkit + Tailwind CSS)** — A productivity and discipline tracking PWA with goal scheduling, focus timer, task tracking, progress analytics, notifications, and dark/light mode. 
 > - **Music Streaming UI (React + Tailwind)** with search & playlists
 
 ---
+
+## 💼 Experience
+
+- **Frontend / HTML Developer — Logistifie**
+  - Jan 2024 – Present
+  - Building responsive web interfaces using HTML, CSS and JavaScript.
+  - Working on website UI implementation and maintenance.
+
+- **Part-time Developer — Melolem**
+  - Jul 2024 – Jan 2025
+  - Worked on UI development and frontend implementation.
+
+- **Trainee — Rean Watertech**
+  - Apr 2023 – Jul 2023
+  - Learned React.js fundamentals, components, props, hooks and routing.
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)** — [Institution Name] | [Year–Year]
+- **Bachelor's Degree** — Burdwan Raj College | 2019–2022
 
 ### 📬 Contact
 - 📧 **sujoy143656@gmail.com**
